@@ -1,6 +1,8 @@
+![I am Junior Web Developer and working on MERN stack programming language.](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/240725042_1048452465962614_1561495952703671638_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeF7UK7hPW3TV1G7Abfu1QneU3sPRHR1vsZTew9EdHW-xhichBudgFWZPKFngHODIg346w4-g-OBb41A3B2zJ1M6&_nc_ohc=HB2l8KKf8KYAX9f_zj0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-dXXqYXy9i6oLpknBEHeS5331EPrDXVQZH5YNQyY9fwg&oe=622ED615)
+
+
 ### Hi there 👋, my name is Sayeduzzman Emon!!!
 #### I am Junior Web Developer and working on MERN stack programming language.
-![I am Junior Web Developer and working on MERN stack programming language.](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/240725042_1048452465962614_1561495952703671638_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeF7UK7hPW3TV1G7Abfu1QneU3sPRHR1vsZTew9EdHW-xhichBudgFWZPKFngHODIg346w4-g-OBb41A3B2zJ1M6&_nc_ohc=HB2l8KKf8KYAX9f_zj0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-dXXqYXy9i6oLpknBEHeS5331EPrDXVQZH5YNQyY9fwg&oe=622ED615)
 
 Sayeduzzman Emon is an employee at FnSoftwares & Institute as a Junior Web Developer. He is a Bangladeshi Youtuber, Entrepreneur, Freelancer & internet personality. Sayeduzzman Emon is the Founder & CEO of SayAn BD. He Studies B.Sc in Software Engineering at Daffodil International University.
 
